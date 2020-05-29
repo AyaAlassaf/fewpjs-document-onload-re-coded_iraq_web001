@@ -1,6 +1,6 @@
 // Your code goes here
 document.addEventListener("DOMContentLoaded", function() {
-  let 
+  let partext=document.querySelector('p').innerHtml=""
   console.log("The DOM has loaded");
 });
  
